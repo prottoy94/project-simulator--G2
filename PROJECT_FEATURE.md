@@ -1,3 +1,7 @@
+"## T-14: Safety & SOS Features" 
+"## T-15: GPS Tracking Integration" 
+"Tracks ride locations in real time, records travel routes, and supports monitoring for safety, ride history, and security purposes." 
+"**Status: Implemented**" 
 "##T-1: User Verification System" 
 "Handles secure user registration and login using university credentials. Ensures identity verification, password security, and controlled system access for all user roles." 
 "**Status: Implemented**" 

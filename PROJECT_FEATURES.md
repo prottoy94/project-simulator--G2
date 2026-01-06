@@ -11,3 +11,11 @@ Notifications for discount milestones, new rewards, and offers.
 In-app message center to view all past ride and request updates.
 **Status: Implemented**
 
+## Rating & Feedback System.
+After each ride, both rider and passenger can rate and review each other.
+Option to add comments or feedback for detailed experience sharing.
+Average rating displayed on user profiles for trust transparency.
+Admins can analyze reviews to detect consistent issues or misconduct.
+Anonymous reporting for safety or inappropriate behavior.
+**Status: Implemented**
+

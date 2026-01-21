@@ -1,4 +1,10 @@
 "# Implemented Feature" 
+"## T-9: Payment & Cost Sharing System" 
+"Cost sharing between companions, multiple payment options, automatic fare calculation with discounts, clear fare breakdown, ride-credit top-ups, and full transaction history."  
+"**Status: Implemented**" 
+"" 
+## T-2:Student Passenger Module
+## Allows student passengers to search for available rides based on route and time, send ride requests to riders, and track the status of requested and ongoing rides
 ## T-5: Campus Security Module
 Allows campus security personnel to monitor SOS alerts, track live rides, view emergency details, and respond quickly to safety incidents within the campus.
 **Status: Implemented**
@@ -9,5 +15,13 @@ Push notifications or email alerts for new companion requests.
 Reminder alerts for upcoming or scheduled rides.
 Notifications for discount milestones, new rewards, and offers.
 In-app message center to view all past ride and request updates.
+**Status: Implemented**
+
+## T-12: Rating & Feedback System.
+After each ride, both rider and passenger can rate and review each other.
+Option to add comments or feedback for detailed experience sharing.
+Average rating displayed on user profiles for trust transparency.
+Admins can analyze reviews to detect consistent issues or misconduct.
+Anonymous reporting for safety or inappropriate behavior.
 **Status: Implemented**
 
